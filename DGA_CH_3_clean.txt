@@ -1,0 +1,322 @@
+
+have adopted this regulation
+chapter i general provisions
+article subject matter and scope
+this regulation lays down
+a conditions for the re-use within the union of certain categories of data held by public sector bodies
+b a notification and supervisory framework for the provision of data sharing services
+c a framework for voluntary registration of entities which collect and process data made available for altruistic purposes
+this regulation is without prejudice to specific provisions in other union legal acts regarding access to or re-use of certain categories of data or requirements related to processing of personal or non-personal data where a sector-specific union legal act requires public sector bodies providers of data sharing services or registered entities providing data altruism services to comply with specific additional technical administrative or organisational requirements including through an authorisation or certification regime those provisions of that sector-specific union legal act shall also apply
+article definitions
+for the purpose of this regulation the following definitions apply
+data’ means any digital representation of acts facts or information and any compilation of such acts facts or information including in the form of sound visual or audiovisual recording
+re-use’ means the use by natural or legal persons of data held by public sector bodies for commercial or non-commercial purposes other than the initial purpose within the public task for which the data were produced except for the exchange of data between public sector bodies purely in pursuit of their public tasks
+non-personal data’ means data other than personal data as defined in point of article of regulation eu 
+metadata’ means data collected on any activity of a natural or legal person for the purposes of the provision of a data sharing service including the date time and geolocation data duration of activity connections to other natural or legal persons established by the person who uses the service
+data holder’ means a legal person or data subject who in accordance with applicable union or national law has the right to grant access to or to share certain personal or non-personal data under its control
+data user’ means a natural or legal person who has lawful access to certain personal or non-personal data and is authorised to use that data for commercial or non-commercial purposes
+data sharing’ means the provision by a data holder of data to a data user for the purpose of joint or individual use of the shared data based on voluntary agreements directly or through an intermediary
+access’ means processing by a data user of data that has been provided by a data holder in accordance with specific technical legal or organisational requirements without necessarily implying the transmission or downloading of such data
+main establishment’ of a legal entity means the place of its central administration in the union
+data altruism’ means the consent by data subjects to process personal data pertaining to them or permissions of other data holders to allow the use of their non-personal data without seeking a reward for purposes of general interest such as scientific research purposes or improving public services
+public sector body’ means the state regional or local authorities bodies governed by public law or associations formed by one or more such authorities or one or more such bodies governed by public law
+bodies governed by public law’ means bodies that have the following characteristics
+athey are established for the specific purpose of meeting needs in the general interest and do not have an industrial or commercial character
+bthey have legal personality
+cthey are financed for the most part by the state regional or local authorities or by other bodies governed by public law or are subject to management supervision by those authorities or bodies or have an administrative managerial or supervisory board more than half of whose members are appointed by the state regional or local authorities or by other bodies governed by public law
+public undertaking’ means any undertaking over which the public sector bodies may exercise directly or indirectly a dominant influence by virtue of their ownership of it their financial participation therein or the rules which govern it for the purpose of this definition a dominant influence on the part of the public sector bodies shall be presumed in any of the following cases in which those bodies directly or indirectly
+ahold the majority of the undertakings subscribed capital
+bcontrol the majority of the votes attaching to shares issued by the undertaking
+can appoint more than half of the undertaking’s administrative management or supervisory body
+secure processing environment’ means the physical or virtual environment and organisational means to provide the opportunity to re-use data in a manner that allows for the operator of the secure processing environment to determine and supervise all data processing actions including to display storage download export of the data and calculation of derivative data through computational algorithms
+representative’ means any natural or legal person established in the union explicitly designated to act on behalf of a provider of data sharing services or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the union which may be addressed by a national competent authority instead of the provider of data sharing services or entity with regard to the obligations of that provider of data sharing services or entity set up by this regulation
+chapter ii re-use of certain categories of protected data held by public sector bodies
+article categories of data
+this chapter applies to data held by public sector bodies which are protected on grounds of
+acommercial confidentiality 
+bstatistical confidentiality
+cprotection of intellectual property rights of third parties
+dprotection of personal data
+this chapter does not apply to
+adata held by public undertakings
+bdata held by public service broadcasters and their subsidiaries and by other bodies or their subsidiaries for the fulfilment of a public service broadcasting remit
+cdata held by cultural establishments and educational establishments
+ddata protected for reasons of national security defence or public security
+edata the supply of which is an activity falling outside the scope of the public task of the public sector bodies concerned as defined by law or by other binding rules in the member state concerned or in the absence of such rules as defined in accordance with common administrative practice in that member state provided that the scope of the public tasks is transparent and subject to review
+the provisions of this chapter do not create any obligation on public sector bodies to allow re-use of data nor do they release public sector bodies from their confidentiality obligations this chapter is without prejudice to union and national law or international agreements to which the union or member states are parties on the protection of categories of data provided in paragraph this chapter is without prejudice to union and national law on access to documents and to obligations of public sector bodies under union and national law to allow the re-use of data
+article prohibition of exclusive arrangements
+agreements or other practices pertaining to the re-use of data held by public sector bodies containing categories of data referred to in article  which grant exclusive rights or which have as their object or effect to grant such exclusive rights or to restrict the availability of data for re-use by entities other than the parties to such agreements or other practices shall be prohibited
+by way of derogation from paragraph an exclusive right to re-use data referred to in that paragraph may be granted to the extent necessary for the provision of a service or a product in the general interest
+such exclusive right shall be granted in the context of a relevant service or concession contract in compliance with applicable union and national public procurement and concession award rules or in the case of a contract of a value for which neither union nor national public procurement and concession award rules are applicable in compliance with the principles of transparency equal treatment and non-discrimination on grounds of nationality
+in all cases not covered by paragraph and where the general interest purpose cannot be fulfilled without granting an exclusive right the principles of transparency equal treatment and non-discrimination on grounds of nationality shall apply
+the period of exclusivity of the right to re-use data shall not exceed three years where a contract is concluded the duration of the contract awarded shall be as aligned with the period of exclusivity
+the award of an exclusive right pursuant to paragraphs to including the reasons why it is necessary to grant such a right shall be transparent and be made publicly available online regardless of a possible publication of an award of a public procurement and concessions contract
+agreements or other practices falling within the scope of the prohibition in paragraph which do not meet the conditions set out in paragraph and which were concluded before the date of entry into force of this regulation shall be terminated at the end of the contract and in any event at the latest within three years after the date of entry into force of this regulation
+article conditions for re-use
+public sector bodies which are competent under national law to grant or refuse access for the re-use of one or more of the categories of data referred to in article  shall make publicly available the conditions for allowing such re-use in that task they may be assisted by the competent bodies referred to in article 
+conditions for re-use shall be non-discriminatory proportionate and objectively justified with regard to categories of data and purposes of re-use and the nature of the data for which re-use is allowed these conditions shall not be used to restrict competition
+public sector bodies may impose an obligation to re-use only pre-processed data where such pre-processing aims to anonymize or pseudonymise personal data or delete commercially confidential information including trade secrets
+public sector bodies may impose obligations
+ato access and re-use the data within a secure processing environment provided and controlled by the public sector 
+bto access and re-use the data within the physical premises in which the secure processing environment is located if remote access cannot be allowed without jeopardising the rights and interests of third parties
+the public sector bodies shall impose conditions that preserve the integrity of the functioning of the technical systems of the secure processing environment used the public sector body shall be able to verify any results of processing of data undertaken by the re-user and reserve the right to prohibit the use of results that contain information jeopardising the rights and interests of third parties
+where the re-use of data cannot be granted in accordance with the obligations laid down in paragraphs to and there is no other legal basis for transmitting the data under regulation eu the public sector body shall support re-users in seeking consent of the data subjects andor permission from the legal entities whose rights and interests may be affected by such re-use where it is feasible without disproportionate cost for the public sector in that task they may be assisted by the competent bodies referred to in article 
+re-use of data shall only be allowed in compliance with intellectual property rights the right of the maker of a database as provided for in article of directive ec shall not be exercised by public sector bodies in order to prevent the re-use of data or to restrict re-use beyond the limits set by this regulation
+when data requested is considered confidential in accordance with union or national law on commercial confidentiality the public sector bodies shall ensure that the confidential information is not disclosed as a result of the re-use
+the commission may adopt implementing acts declaring that the legal supervisory and enforcement arrangements of a third country
+aensure protection of intellectual property and trade secrets in a way that is essentially equivalent to the protection ensured under union law
+bare being effectively applied and enforced and
+cprovide effective judicial redress
+those implementing acts shall be adopted in accordance with the advisory procedure referred to in article 
+public sector bodies shall only transmit confidential data or data protected by intellectual property rights to a re-user which intends to transfer the data to a third country other than a country designated in accordance with paragraph if the re-user undertakes
+ato comply with the obligations imposed in accordance with paragraphs to even after the data is transferred to the third country and
+bto accept the jurisdiction of the courts of the member state of the public sector body as regards any dispute related to the compliance with the obligation in point a
+where specific union acts adopted in accordance with a legislative procedure establish that certain non-personal data categories held by public sector bodies shall be deemed to be highly sensitive for the purposes of this article the commission shall be empowered to adopt delegated acts in accordance with article supplementing this regulation by laying down special conditions applicable for transfers to third-countries the conditions for the transfer to third-countries shall be based on the nature of data categories identified in the union act and on the grounds for deeming them highly sensitive non-discriminatory and limited to what is necessary to achieve the public policy objectives identified in the union law act such as safety and public health as well as risks of re-identification of anonymized data for data subjects in accordance with the union’s international obligations they may include terms applicable for the transfer or technical arrangements in this regard limitations as regards the re-use of data in third-countries or categories of persons which are entitled to transfer such data to third countries or in exceptional cases restrictions as regards transfers to third-countries
+the natural or legal person to which the right to re-use non-personal data was granted may transfer the data only to those third-countries for which the requirements in paragraphs to are met
+where the re-user intends to transfer non-personal data to a third country the public sector body shall inform the data holder about the transfer of data to that third country
+article fees
+public sector bodies which allow re-use of the categories of data referred to in article  may charge fees for allowing the re-use of such data
+any fees shall be non-discriminatory proportionate and objectively justified and shall not restrict competition
+public sector bodies shall ensure that any fees can be paid online through widely available cross-border payment services without discrimination based on the place of establishment of the payment service provider the place of issue of the payment instrument or the location of the payment account within the union
+where they apply fees public sector bodies shall take measures to incentivise the re-use of the categories of data referred to in article  for non-commercial purposes and by small and medium-sized enterprises in line with state aid rules
+fees shall be derived from the costs related to the processing of requests for re-use of the categories of data referred to in article  the methodology for calculating fees shall be published in advance
+the public sector body shall publish a description of the main categories of costs and the rules used for the allocation of costs
+article competent bodies
+member states shall designate one or more competent bodies which may be sectoral to support the public sector bodies which grant access to the re-use of the categories of data referred to in article  in the exercise of that task
+the support provided for in paragraph shall include where necessary
+aproviding technical support by making available a secure processing environment for providing access for the re-use of data
+bproviding technical support in the application of tested techniques ensuring data processing in a manner that preserves privacy of the information contained in the data for which re-use is allowed including techniques for pseudonymisation anonymisation generalisation suppression and randomisation of personal data
+cassisting the public sector bodies where relevant in obtaining consent or permission by re-users for re-use for altruistic and other purposes in line with specific decisions of data holders including on the jurisdiction or jurisdictions in which the data processing is intended to take place
+dproviding public sector bodies with assistance on the adequacy of undertakings made by a re-user pursuant to article 
+the competent bodies may also be entrusted pursuant union or national law which provides for such access to be given to grant access for the re-use of the categories of data referred to in article  while performing their function to grant or refuse access for re-use articles  and  shall apply in regard to such competent bodies
+the competent body or bodies shall have adequate legal and technical capacities and expertise to be able to comply with relevant union or national law concerning the access regimes for the categories of data referred to in article 
+the member states shall communicate to the commission the identity of the competent bodies designated pursuant to paragraph by [date of application of this regulation] they shall also communicate to the commission any subsequent modification of the identity of those bodies
+article single information point
+member states shall ensure that all relevant information concerning the application of articles and is available through a single information point
+the single information point shall receive requests for the re-use of the categories of data referred to in article  and shall transmit them to the competent public sector bodies or the competent bodies referred to in article  where relevant the single information point shall make available by electronic means a register of available data resources containing relevant information describing the nature of available data
+requests for the re-use of the categories of data referred to in article  shall be granted or refused by the competent public sector bodies or the competent bodies referred to in article  within a reasonable time and in any case within two months from the date of the request
+any natural or legal person affected by a decision of a public sector body or of a competent body as the case may be shall have the right to an effective judicial remedy against such decision before the courts of the member state where the relevant body is located
+chapter iii requirements applicable to data sharing services
+article providers of data sharing services
+the provision of the following data sharing services shall be subject to a notification procedure
+aintermediation services between data holders which are legal persons and potential data users including making available the technical or other means to enable such services those services may include bilateral or multilateral exchanges of data or the creation of platforms or databases enabling the exchange or joint exploitation of data as well as the establishment of a specific infrastructure for the interconnection of data holders and data users
+bintermediation services between data subjects that seek to make their personal data available and potential data users including making available the technical or other means to enable such services in the exercise of the rights provided in regulation eu 
+cservices of data cooperatives that is to say services supporting data subjects or one-person companies or micro small and medium-sized enterprises who are members of the cooperative or who confer the power to the cooperative to negotiate terms and conditions for data processing before they consent in making informed choices before consenting to data processing and allowing for mechanisms to exchange views on data processing purposes and conditions that would best represent the interests of data subjects or legal persons
+this chapter shall be without prejudice to the application of other union and national law to providers of data sharing services including powers of supervisory authorities to ensure compliance with applicable law in particular as regard the protection of personal data and competition law
+article notification of data sharing service providers
+any provider of data sharing services who intends to provide the services referred to in article  shall submit a notification to the competent authority referred to in article 
+for the purposes of this regulation a provider of data sharing services with establishments in more than one member state shall be deemed to be under the jurisdiction of the member state in which it has its main establishment
+a provider of data sharing services that is not established in the union but offers the services referred to in article  within the union shall appoint a legal representative in one of the member states in which those services are offered the provider shall be deemed to be under the jurisdiction of the member state in which the legal representative is established
+upon notification the provider of data sharing services may start the activity subject to the conditions laid down in this chapter
+the notification shall entitle the provider to provide data sharing services in all member states
+the notification shall include the following information
+athe name of the provider of data sharing services
+bthe provider’s legal status form and registration number where the provider is registered in trade or in another similar public register
+cthe address of the provider’s main establishment in the union if any and where applicable any secondary branch in another member state or that of the legal representative designated pursuant to paragraph 
+da website where information on the provider and the activities can be found where applicable
+ethe provider’s contact persons and contact details
+fa description of the service the provider intends to provide
+gthe estimated date for starting the activity
+hthe member states where the provider intends to provide services
+at the request of the provider the competent authority shall within one week issue a standardised declaration confirming that the provider has submitted the notification referred to in paragraph 
+the competent authority shall forward each notification to the national competent authorities of the member states by electronic means without delay
+the competent authority shall notify the commission of each new notification the commission shall keep a register of providers of data sharing services
+the competent authority may charge fees such fees shall be proportionate and objective and be based on the administrative costs related to the monitoring of compliance and other market control activities of the competent authorities in relation to notifications of data sharing services
+where a provider of data sharing services ceases its activities it shall notify the relevant competent authority determined pursuant to paragraphs  and within days the competent authority shall forward without delay each such notification to the national competent authorities in the member states and to the commission by electronic means
+article conditions for providing data sharing services
+the provision of data sharing services referred in article  shall be subject to the following conditions
+the provider may not use the data for which it provides services for other purposes than to put them at the disposal of data users and data sharing services shall be placed in a separate legal entity
+the metadata collected from the provision of the data sharing service may be used only for the development of that service
+the provider shall ensure that the procedure for access to its service is fair transparent and non-discriminatory for both data holders and data users including as regards prices
+the provider shall facilitate the exchange of the data in the format in which it receives it from the data holder and shall convert the data into specific formats only to enhance interoperability within and across sectors or if requested by the data user or where mandated by union law or to ensure harmonisation with international or european data standards
+the provider shall have procedures in place to prevent fraudulent or abusive practices in relation to access to data from parties seeking access through their services
+the provider shall ensure a reasonable continuity of provision of its services and in the case of services which ensure storage of data shall have sufficient guarantees in place that allow data holders and data users to obtain access to their data in case of insolvency
+the provider shall put in place adequate technical legal and organisational measures in order to prevent transfer or access to non-personal data that is unlawful under union law
+the provider shall take measures to ensure a high level of security for the storage and transmission of non-personal data
+the provider shall have procedures in place to ensure compliance with the union and national rules on competition
+the provider offering services to data subjects shall act in the data subjects’ best interest when facilitating the exercise of their rights in particular by advising data subjects on potential data uses and standard terms and conditions attached to such uses
+where a provider provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place
+article competent authorities
+each member state shall designate in its territory one or more authorities competent to carry out the tasks related to the notification framework and shall communicate to the commission the identity of those designated authorities by [date of application of this regulation] it shall also communicate to the commission any subsequent modification
+the designated competent authorities shall comply with article 
+the designated competent authorities the data protection authorities the national competition authorities the authorities in charge of cybersecurity and other relevant sectorial authorities shall exchange the information which is necessary for the exercise of their tasks in relation to data sharing providers
+article monitoring of compliance
+the competent authority shall monitor and supervise compliance with this chapter
+the competent authority shall have the power to request from providers of data sharing services all the information that is necessary to verify compliance with the requirements laid down in articles and any request for information shall be proportionate to the performance of the task and shall be reasoned
+where the competent authority finds that a provider of data sharing services does not comply with one or more of the requirements laid down in article or it shall notify that provider of those findings and give it the opportunity to state its views within a reasonable time limit
+the competent authority shall have the power to require the cessation of the breach referred to in paragraph either immediately or within a reasonable time limit and shall take appropriate and proportionate measures aimed at ensuring compliance in this regard the competent authorities shall be able where appropriate
+ato impose dissuasive financial penalties which may include periodic penalties with retroactive effect
+bto require cessation or postponement of the provision of the data sharing service
+the competent authorities shall communicate the measures imposed pursuant to paragraph and the reasons on which they are based to the entity concerned without delay and shall stipulate a reasonable period for the entity to comply with the measures
+if a provider of data sharing services has its main establishment or legal representative in a member state but provides services in other member states the competent authority of the member state of the main establishment or where the legal representative is located and the competent authorities of those other member states shall cooperate and assist each other such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the measures referred to in this article
+article exceptions
+this chapter shall not apply to not-for-profit entities whose activities consist only in seeking to collect data for objectives of general interest made available by natural or legal persons on the basis of data altruism
+chapter iv data altruism
+article register of recognised data altruism organisations
+each competent authority designated pursuant to article shall keep a register of recognised data altruism organisations
+the commission shall maintain a union register of recognised data altruism organisations
+an entity registered in the register in accordance with article may refer to itself as a data altruism organisation recognised in the union’ in its written and spoken communication
+article  general requirements for registration
+in order to qualify for registration the data altruism organisation shall
+abe a legal entity constituted to meet objectives of general interest
+boperate on a not-for-profit basis and be independent from any entity that operates on a for-profit basis
+cperform the activities related to data altruism take place through a legally independent structure separate from other activities it has undertaken
+article registration
+any entity which meets the requirements of article may request to be entered in the register of recognised data altruism organisations referred to in article 
+for the purposes of this regulation an entity engaged in activities based on data altruism with establishments in more than one member state shall register in the member state in which it has its main establishment
+an entity that is not established in the union but meets the requirements in article shall appoint a legal representative in one of the member states where it intends to collect data based on data altruism for the purpose of compliance with this regulation that entity shall be deemed to be under the jurisdiction of the member state where the legal representative is located
+applications for registration shall contain the following information
+aname of the entity
+bthe entity’s legal status form and registration number where the entity is registered in a public register
+cthe statutes of the entity where appropriate
+dthe entity’s main sources of income
+ethe address of the entity’s main establishment in the union if any and where applicable any secondary branch in another member state or that of the legal representative designated pursuant to paragraph 
+fa website where information on the entity and the activities can be found
+gthe entity’s contact persons and contact details
+hthe purposes of general interest it intends to promote when collecting data
+iany other documents which demonstrate that the requirements of article are met
+where the entity has submitted all necessary information pursuant to paragraph and the competent authority considers that the entity complies with the requirements of article it shall register the entity in the register of recognised data altruism organisations within twelve weeks from the date of application the registration shall be valid in all member states any registration shall be communicated to the commission for inclusion in the union register of recognised data altruism organisations
+the information referred to in paragraph points a b f g and h shall be published in the national register of recognised data altruism organisations
+any entity entered in the register of recognised data altruism organisations shall submit any changes of the information provided pursuant to paragraph to the competent authority within calendar days from the day on which the change takes place
+article transparency requirements
+any entity entered in the national register of recognised data altruism organisations shall keep full and accurate records concerning
+aall natural or legal persons that were given the possibility to process data held by that entity
+bthe date or duration of such processing
+cthe purpose of such processing as declared by the natural or legal person that was given the possibility of processing
+dthe fees paid by natural or legal persons processing the data if any
+any entity entered in the register of recognised data altruism organisations shall draw up and transmit to the competent national authority an annual activity report which shall contain at least the following
+ainformation on the activities of the entity
+ba description of the way in which the general interest purposes for which data was collected have been promoted during the given financial year
+ca list of all natural and legal persons that were allowed to use data it holds including a summary description of the general interest purposes pursued by such data use and the description of the technical means used for it including a description of the techniques used to preserve privacy and data protection
+da summary of the results of the data uses allowed by the entity where applicable
+einformation on sources of revenue of the entity in particular all revenue resulted from allowing access to the data and on expenditure
+article specific requirements to safeguard rights and interests of data subjects and legal entities as regards their data
+any entity entered in the register of recognised data altruism organisations shall inform data holders
+aabout the purposes of general interest for which it permits the processing of their data by a data user in an easy-to-understand manner
+babout any processing outside the union
+the entity shall also ensure that the data is not be used for other purposes than those of general interest for which it permits the processing
+where an entity entered in the register of recognised data altruism organisations provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place
+article competent authorities for registration
+each member state shall designate one or more competent authorities responsible for the register of recognised data altruism organisations and for the monitoring of compliance with the requirements of this chapter the designated competent authorities shall meet the requirements of article 
+each member state shall inform the commission of the identity of the designated authorities
+the competent authority shall undertake its tasks in cooperation with the data protection authority where such tasks are related to processing of personal data and with relevant sectoral bodies of the same member state for any question requiring an assessment of compliance with regulation eu the competent authority shall first seek an opinion or decision by the competent supervisory authority established pursuant to that regulation and comply with that opinion or decision
+article monitoring of compliance
+the competent authority shall monitor and supervise compliance of entities entered in the register of recognised data altruism organisations with the conditions laid down in this chapter
+the competent authority shall have the power to request information from entities included in the register of recognised data altruism organisations that is necessary to verify compliance with the provisions of this chapter any request for information shall be proportionate to the performance of the task and shall be reasoned
+where the competent authority finds that an entity does not comply with one or more of the requirements of this chapter it shall notify the entity of those findings and give it the opportunity to state its views within a reasonable time limit
+the competent authority shall have the power to require the cessation of the breach referred to in paragraph either immediately or within a reasonable time limit and shall take appropriate and proportionate measures aimed at ensuring compliance
+if an entity does not comply with one or more of the requirements of this chapter even after having been notified in accordance with paragraph by the competent authority the entity shall
+alose its right to refer to itself as a data altruism organisation recognised in the union’ in any written and spoken communication
+bbe removed from the register of recognised data altruism organisations
+if an entity included in the register of recognised data altruism organisations has its main establishment or legal representative in a member state but is active in other member states the competent authority of the member state of the main establishment or where the legal representative is located and the competent authorities of those other member states shall cooperate and assist each other as necessary such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the supervisory measures referred to in this article
+article european data altruism consent form
+in order to facilitate the collection of data based on data altruism the commission may adopt implementing acts developing a european data altruism consent form the form shall allow the collection of consent across member states in a uniform format those implementing acts shall be adopted in accordance with the advisory procedure referred to in article 
+the european data altruism consent form shall use a modular approach allowing customisation for specific sectors and for different purposes
+where personal data are provided the european data altruism consent form shall ensure that data subjects are able to give consent to and withdraw consent from a specific data processing operation in compliance with the requirements of regulation eu 
+the form shall be available in a manner that can be printed on paper and read by humans as well as in an electronic machine-readable form
+chapter v competent authorities and procedural provisions
+article requirements relating to competent authorities
+the competent authorities designated pursuant to article and article shall be legally distinct from and functionally independent of any provider of data sharing services or entity included in the register of recognised data altruism organisations
+competent authorities shall exercise their tasks in an impartial transparent consistent reliable and timely manner
+the top-management and the personnel responsible for carrying out the relevant tasks of the competent authority provided for in this regulation cannot be the designer manufacturer supplier installer purchaser owner user or maintainer of the services which they evaluate nor the authorised representative of any of those parties or represent them this shall not preclude the use of evaluated services that are necessary for the operations of the competent authority or the use of such services for personal purposes
+top-management and personnel shall not engage in any activity that may conflict with their independence of judgment or integrity in relation to evaluation activities entrusted to them
+the competent authorities shall have at their disposal the adequate financial and human resources to carry out the tasks assigned to them including the necessary technical knowledge and resources
+the competent authorities of a member state shall provide the commission and competent authorities from other member states on reasoned request with the information necessary to carry out their tasks under this regulation where a national competent authority considers the information requested to be confidential in accordance with union and national rules on commercial and professional confidentiality the commission and any other competent authorities concerned shall ensure such confidentiality
+article right to lodge a complaint
+natural and legal persons shall have the right to lodge a complaint with the relevant national competent authority against a provider of data sharing services or an entity entered in the register of recognised data altruism organisations
+the authority with which the complaint has been lodged shall inform the complainant of the progress of the proceedings and of the decision taken and shall inform the complainant of the right to an effective judicial remedy provided for in article 
+article right to an effective judicial remedy
+notwithstanding any administrative or other non-judicial remedies any affected natural and legal persons shall have the right to an effective judicial remedy with regard to
+aa failure to act on a complaint lodged with the competent authority referred to in articles and 
+bdecisions of the competent authorities referred to in articles  and taken in the management control and enforcement of the notification regime for providers of data sharing services and the monitoring of entities entered into the register of recognised data altruism organisations
+proceedings pursuant to this article shall be brought before the courts of the member state in which the authority against which the judicial remedy is sought is located
+chapter vi european data innovation board
+article european data innovation board
+the commission shall establish a european data innovation board the board in the form of an expert group consisting of the representatives of competent authorities of all the member states the european data protection board the commission relevant data spaces and other representatives of competent authorities in specific sectors
+stakeholders and relevant third parties may be invited to attend meetings of the board and to participate in its work
+the commission shall chair the meetings of the board
+the board shall be assisted by a secretariat provided by the commission
+article tasks of the board
+the board shall have the following tasks
+ato advise and assist the commission in developing a consistent practice of public sector bodies and competent bodies referred to in article  processing requests for the re-use of the categories of data referred to in article 
+bto advise and assist the commission in developing a consistent practice of the competent authorities in the application of requirements applicable to data sharing providers
+cto advise the commission on the prioritisation of cross-sector standards to be used and developed for data use and cross-sector data sharing cross-sectoral comparison and exchange of best practices with regards to sectoral requirements for security access procedures while taking into account sector-specific standardisations activities
+dto assist the commission in enhancing the interoperability of data as well as data sharing services between different sectors and domains building on existing european international or national standards
+eto facilitate the cooperation between national competent authorities under this regulation through capacity-building and the exchange of information in particular by establishing methods for the efficient exchange of information relating to the notification procedure for data sharing service providers and the registration and monitoring of recognised data altruism organisations
+chapter vii committee and delegation
+article exercise of the delegation
+the power to adopt delegated acts is conferred on the commission subject to the conditions laid down in this article
+the power to adopt delegated acts referred to in article  shall be conferred on the commission for an indeterminate period of time from […]
+the delegation of power referred to in article  may be revoked at any time by the european parliament or by the council a decision to revoke shall put an end to the delegation of the power specified in that decision it shall take effect the day following the publication of the decision in the official journal of the european union or at a later date specified therein it shall not affect the validity of any delegated acts already in force
+before adopting a delegated act the commission shall consult experts designated by each member state in accordance with the principles laid down in the interinstitutional agreement of april on better law-making
+as soon as it adopts a delegated act the commission shall notify it simultaneously to the european parliament and to the council
+a delegated act adopted pursuant to article  shall enter into force only if no objection has been expressed either by the european parliament or by the council within a period of three months of notification of that act to the european parliament and to the council or if before the expiry of that period the european parliament and the council have both informed the commission that they will not object that period shall be extended by three months at the initiative of the european parliament or of the council
+article committee procedure
+the commission shall be assisted by a committee within the meaning of regulation eu no 
+where reference is made to this paragraph article of regulation eu no shall apply
+where the opinion of the committee is to be obtained by written procedure that procedure shall be terminated without result when within the time-limit for delivery of the opinion the chair of the committee so decides or a committee member so requests in such a case the chair shall convene a committee meeting within a reasonable time
+chapter viii final provisions
+article international access
+the public sector body the natural or legal person to which the right to re-use data was granted under chapter the data sharing provider or the entity entered in the register of recognised data altruism organisations as the case may be shall take all reasonable technical legal and organisational measures in order to prevent transfer or access to non-personal data held in the union where such transfer or access would create a conflict with union law or the law of the relevant member state unless the transfer or access are in line with paragraph or 
+any judgment of a court or tribunal and any decision of an administrative authority of a third country requiring a public sector body a natural or legal person to which the right to re-use data was granted under chapter a data sharing provider or entity entered in the register of recognised data altruism organisations to transfer from or give access to non-personal data subject to this regulation in the union may only be recognised or enforceable in any manner if based on an international agreement such as a mutual legal assistance treaty in force between the requesting third country and the union or any such agreement between the requesting third country and a member state concluded before [the entry into force of this regulation]
+where a public sector body a natural or legal person to which the right to re-use data was granted under chapter a data sharing provider or entity entered in the register of recognised data altruism organisations is the addressee of a decision of a court or of an administrative authority of a third country to transfer from or give access to non-personal data held in the union and compliance with such a decision would risk putting the addressee in conflict with union law or with the law of the relevant member state transfer to or access to such data by that third-country authority shall take place only
+awhere the third-country system requires the reasons and proportionality of the decision to be set out and it requires the court order or the decision as the case may be to be specific in character for instance by establishing a sufficient link to certain suspected persons or infringements
+bthe reasoned objection of the addressee is subject to a review by a competent court in the third-country and
+cin that context the competent court issuing the order or reviewing the decision of an administrative authority is empowered under the law of that country to take duly into account the relevant legal interests of the provider of the data protected by union law or the applicable member state law
+the addressee of the decision shall ask the opinion of the relevant competent bodies or authorities pursuant to this regulation in order to determine if these conditions are met
+if the conditions in paragraph or are met the public sector body the natural or legal person to which the right to re-use data was granted under chapter the data sharing provider or the entity entered in the register of recognised data altruism organisations as the case may be shall provide the minimum amount of data permissible in response to a request based on a reasonable interpretation of the request
+the public sector body the natural or legal person to which the right to re-use data was granted under chapter the data sharing provider and the entity providing data altruism shall inform the data holder about the existence of a request of an administrative authority in a third-country to access its data except in cases where the request serves law enforcement purposes and for as long as this is necessary to preserve the effectiveness of the law enforcement activity
+article penalties
+member states shall lay down the rules on penalties applicable to infringements of this regulation and shall take all measures necessary to ensure that they are implemented the penalties provided for shall be effective proportionate and dissuasive member states shall notify the commission of those rules and measures by [date of application of the regulation] and shall notify the commission without delay of any subsequent amendment affecting them
+article evaluation and review
+by [four years after the data of application of this regulation] the commission shall carry out an evaluation of this regulation and submit a report on its main findings to the european parliament and to the council as well as to the european economic and social committee member states shall provide the commission with the information necessary for the preparation of that report
+article amendment to regulation eu no 
+in annex ii to regulation eu no the following line is added under starting running and closing a business
+starting running and closing a business notification as a provider of data sharing services confirmation of the receipt of notification
+registration as a european data altruism organisation confirmation of the registration
+article transitional arrangements
+entities providing the data sharing services provided in article on the date of entry into force of this regulation shall comply with the obligations set out in chapter iii by [date - years after the start date of the application of the regulation] at the latest
+article entry into force and application
+this regulation shall enter into force on the twentieth day following that of its publication in the official journal of the european union 
+it shall apply from [ months after its entry into force]
+this regulation shall be binding in its entirety and directly applicable in all member states
+done at brussels
+for the european parliament  for the council
+the president  the president
+  the final form of the legal act will be determined by the content of the instrument
+   com final 
+  data the use of which is dependent on the rights of others or data subject to the rights of others covers data that might be subject to data protection legislation intellectual property or contain trade secrets or other commercially sensitive information
+  see com final 
+   httpswwwforceorggroupfairgroupfairprinciples
+   oj l  p as amended by 
+  a legislative proposal for the european health data space is envisaged for the fourth quarter of httpseurlexeuropaeuresourcehtmluri=cellaracecfbebaaaedadoc&format=pdf
+  
+   com final 
+   com final 
+  european commission forthcoming support study to this impact assessment smart prepared by deloitte
+  communication from the commission to the european parliament the european council the council the european economic and social committee and the committee of the regions on the european green deal brussels com final
+  com  final
+  see annexes to the communication from the commission to the european parliament the council the european economic and social committee and the committee of the regions on commission work programme com final
+  for example directive eu in the context of the european health data space and relevant transport legislation such as directive eu regulation and regulation eu in the context of the european mobility data space
+  regulation eu of the european parliament and of the council of april on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing directive ec general data protection regulation
+  directive eu of the european parliament and of the council of april on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention investigation detection or prosecution of criminal offences or the execution of criminal penalties and on the free movement of such data and repealing council framework decision jha
+  directive eu of the european parliament and of the council of june on the protection of undisclosed know-how and business information trade secrets against their unlawful acquisition use and disclosure
+  regulation eu of the european parliament and of the council of november on a framework for the free flow of non-personal data in the european union 
+  regulation ec no of the european parliament and of the council of march on european statistics and repealing regulation ec euratom no of the european parliament and of the council on the transmission of data subject to statistical confidentiality to the statistical office of the european communities council regulation ec no on community statistics and council decision eec euratom establishing a committee on the statistical programmes of the european communities 
+  directive ec of the european parliament and of the council of june on certain legal aspects of information society services in particular electronic commerce in the internal market directive on electronic commerce 
+  directive ec of the european parliament and of the council of may on the harmonisation of certain aspects of copyright and related rights in the information society 
+  directive eu of the european parliament and of the council of april on copyright and related rights in the digital single market and amending directives ec and ec 
+  directive ec of the european parliament and of the council of april on the enforcement of intellectual property rights oj l 
+  directive eu of the european parliament and of the council of june on open data and the re-use of public sector information 
+  regulation eu of the european parliament and of the council of may on the approval and market surveillance of motor vehicles and their trailers and of systems components and separate technical units intended for such vehicles amending regulations ec no and ec no and repealing directive ec oj l 
+  directive eu of the european parliament and of the council of july on the framework for the deployment of intelligent transport systems in the field of road transport and for interfaces with other modes of transport 
+  commission regulation eu of june implementing regulation ec no of the european parliament and of the council on european statistics as regards access to confidential data for scientific purposes and repealing commission regulation ec no 
+
+  directive ec of the european parliament and of the council of march on the legal protection of databases 
+  directive eu of the european parliament and of the council of may on markets in financial instruments and amending directive ec and directive eu oj l 
+  directive eu of the european parliament and of the council of november on payment services in the internal market amending directives ec ec and eu and regulation eu no and repealing directive ec
+  httpsjoinupeceuropaeucollectionsemantic-interoperability-community-semiccore-vocabularies
+  httpsjoinupeceuropaeucollectionconnecting-europe-facility-cef
+  regulation eu no of the european parliament and of the council of february laying down the rules and general principles concerning mechanisms for control by the member states of the commissions exercise of implementing powers
+  regulation eu of the european parliament and of the council of october on the protection of natural persons with regard to the processing of personal data by the union institutions bodies offices and agencies and on the free movement of such data and repealing regulation ec no and decision no ec 
+
